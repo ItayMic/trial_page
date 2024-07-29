@@ -155,3 +155,7 @@
     position: absolute;
     top:0;
 }
+
+.input_file{
+    display: none;
+}
